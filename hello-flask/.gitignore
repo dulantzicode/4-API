@@ -1,0 +1,8 @@
+__pycache__/*
+include/*
+instance/*
+Lib/**/*
+Scripts/**/*
+src/*
+Pipfile.lock
+pyvenv.cfg
